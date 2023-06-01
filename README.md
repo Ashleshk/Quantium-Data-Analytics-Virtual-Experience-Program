@@ -22,4 +22,4 @@
 
 **Certification**
 
-![image](https://github.com/Ashleshk/Quantium-Data-Analytics-Virtual-Experience-Program/blob/main/Certificate.pdf)
+![image](https://github.com/Ashleshk/Quantium-Data-Analytics-Virtual-Experience-Program/blob/main/Task%203/Certificate.png)
